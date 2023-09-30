@@ -57,8 +57,11 @@ Start with finding recent literature (post-2018) focusing on Gen Z consumer beha
 
 # Starter content
 
+This is starter content to get the team started.  Each member of the team should pick one or two points below and research and enhance it.
+
+
 1. **Literature Review (20%)**
-2. 
+   
 # Generation Z (Gen Z) Characteristics
 
 Generation Z, often referred to as those born between the mid-1990s to the early 2010s, stands out for several distinct traits:
