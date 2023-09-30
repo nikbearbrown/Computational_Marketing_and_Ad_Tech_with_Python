@@ -55,4 +55,66 @@ Start with finding recent literature (post-2018) focusing on Gen Z consumer beha
 - Remember to adhere to ethical considerations while conducting the survey.
 - Ensure to cite all sources and references appropriately in APA/MLA format.
 
+# Starter content
+
+1. **Literature Review (20%)**
+2. 
+# Generation Z (Gen Z) Characteristics
+
+Generation Z, often referred to as those born between the mid-1990s to the early 2010s, stands out for several distinct traits:
+
+## 1. Digital Natives
+Unlike previous generations, Gen Zers have always lived in a world with the internet, smartphones, and social media.
+
+## 2. Multitaskers
+They can effortlessly switch between devices and platforms, often using several at the same time.
+
+## 3. Value Authenticity
+Gen Z consumers prefer genuine, transparent brands and value organic storytelling over overt advertising.
+
+## 4. Socially Conscious
+This generation is acutely aware of issues like climate change, mental health, LGBTQ+ rights, and racial and gender equality.
+
+## 5. Economic Pragmatism
+Having grown up during the Great Recession, Gen Z is cautious about financial matters.
+
+## 6. Diverse and Inclusive
+Gen Z is one of the most ethnically and culturally diverse generations.
+
+## 7. Mental Health Awareness
+They are open about mental health issues and advocate for removing associated stigmas.
+
+## 8. Preference for Personalization
+Gen Z values individual experiences and expects tailored products, services, and content.
+
+## 9. Educated and Independent Learners
+With vast online resources, Gen Zers are self-taught and rely heavily on online content before making decisions.
+
+## 10. Global Citizens
+The internet and social media give Gen Zers a broader global perspective.
+
+---
+
+### Comparison with Other Generations
+
+- **Millennials**: Known for their optimistic worldview, entrepreneurial spirit, and heavy reliance on peer opinions.
+- **Generation X**: Recognized for their independence, skepticism towards institutions, and a balance between digital and analog.
+- **Baby Boomers**: Characterized by a strong work ethic, brand loyalty, and slower adaptation to digital tech.
+
+*Note: These are generalized traits, and individual experiences within each generation may vary.*
+
+
+2. **Case Study Analysis (30%)**
+
+
+3. **Survey and Data Analysis (30%)**
+
+
+4. **Marketing Strategy Proposal (15%)**
+
+
+5. **Presentation and Report Writing (5%)**
+
+
+
 
