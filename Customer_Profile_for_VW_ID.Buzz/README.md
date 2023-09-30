@@ -73,7 +73,7 @@ Consider reaching out to:
 ## 8. **Social Media**
 Platforms like [Instagram](https://www.instagram.com/), [Pinterest](https://www.pinterest.com/), and [YouTube](https://www.youtube.com/) are rich in content from car enthusiasts.
 
-Below is a sample article.  It needs some rewriting and some market research.
+Below is a sample 900-word article.  It needs some rewriting and some market research.
 
 ## Modern Meets Classic: VW's Electric ID.Buzz Minibus 
 
