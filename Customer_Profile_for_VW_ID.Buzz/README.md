@@ -16,6 +16,8 @@ VW is planning to launch its new EV "bus" - the ID.Buzz - in the United States i
 
 Some suggested VW ID.Buzz redesigns are in the folder *VW_ID.Buzz_Redesigns*  
 
+<img src="https://github.com/nikbearbrown/Computational_Marketing_and_Ad_Tech_with_Python/blob/main/Customer_Profile_for_VW_ID.Buzz/VW_ID.Buzz_Redesigns/VW_ID_Buzz_Redesign-topaz-sharpen.png?raw=true">
+
 ## Assignment
 
 1. **Article Review**
